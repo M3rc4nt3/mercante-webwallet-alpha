@@ -30,3 +30,5 @@ Planned Features:
 More Information:
 
 TO START ON MERCANTED: mercanted mercante@... –walletdbversion=1 -daemon
+mercante-cli ... setgenerate=false
+
